@@ -4,7 +4,7 @@ yahoo.com
 facebook.com
 end
 
-define subnet BMS_VCenter_Allowlist
+define category BMS_VCenter_Allowlist
 10.50.149.202/32
 198.155.78.21/32
 192.168.165.8/32
